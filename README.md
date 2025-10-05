@@ -32,7 +32,7 @@ UML:
                  │
      ┌──────────┼──────────┐
      ▼          ▼          ▼
- Too Low   Too High   Correct
+     Too Low   Too High   Correct
      │          │          │
      └────┐ ┌───┘          │
           ▼ ▼              │
